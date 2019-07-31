@@ -1,0 +1,386 @@
+exp,name,pos,slug,team
+8,Chandler Parsons,F,/players/p/parsoch01.html,Atlanta Hawks
+9,Evan Turner,G,/players/t/turneev01.html,Atlanta Hawks
+6,Allen Crabbe,G-F,/players/c/crabbal01.html,Atlanta Hawks
+3,DeAndre' Bembry,F,/players/b/bembrde01.html,Atlanta Hawks
+3,Damian Jones,F-C,/players/j/jonesda03.html,Atlanta Hawks
+2,John Collins,F,/players/c/collijo01.html,Atlanta Hawks
+1,Trae Young,G,/players/y/youngtr01.html,Atlanta Hawks
+1,Kevin Huerter,G,/players/h/huertke01.html,Atlanta Hawks
+6,Alex Len,C,/players/l/lenal01.html,Atlanta Hawks
+R,De'Andre Hunter,F,/players/h/huntede01.html,Atlanta Hawks
+R,Cam Reddish,F,/players/r/reddica01.html,Atlanta Hawks
+R,Bruno Fernando,F,/players/f/fernabr01.html,Atlanta Hawks
+5,Jabari Parker,F,/players/p/parkeja01.html,Atlanta Hawks
+3,Jaylen Brown,F-G,/players/b/brownja02.html,Boston Celtics
+2,Jayson Tatum,F,/players/t/tatumja01.html,Boston Celtics
+9,Gordon Hayward,F-G,/players/h/haywago01.html,Boston Celtics
+2,Semi Ojeleye,F,/players/o/ojelese01.html,Boston Celtics
+1,Robert Williams,F,/players/w/williro04.html,Boston Celtics
+5,Marcus Smart,G,/players/s/smartma01.html,Boston Celtics
+R,Romeo Langford,G,/players/l/langfro01.html,Boston Celtics
+R,Grant Williams,F,/players/w/willigr01.html,Boston Celtics
+8,Kemba Walker,G,/players/w/walkeke02.html,Boston Celtics
+R,Carsen Edwards,G,/players/e/edwarca01.html,Boston Celtics
+2,Daniel Theis,C,/players/t/theisda01.html,Boston Celtics
+8,Enes Kanter,C,/players/k/kanteen01.html,Boston Celtics
+1,Brad Wanamaker,G,/players/w/wanambr01.html,Boston Celtics
+2,Denzel Valentine,G,/players/v/valende01.html,Chicago Bulls
+3,Kris Dunn,G,/players/d/dunnkr01.html,Chicago Bulls
+2,Lauri Markkanen,F-C,/players/m/markkla01.html,Chicago Bulls
+4,Cristiano Felício,F-C,/players/f/feliccr01.html,Chicago Bulls
+6,Otto Porter,F,/players/p/porteot01.html,Chicago Bulls
+1,Chandler Hutchison,G,/players/h/hutchch01.html,Chicago Bulls
+1,Wendell Carter Jr.,C,/players/c/cartewe01.html,Chicago Bulls
+5,Zach LaVine,G,/players/l/lavinza01.html,Chicago Bulls
+2,Antonio Blakeney,G,/players/b/blakean01.html,Chicago Bulls
+R,Coby White,G,/players/w/whiteco01.html,Chicago Bulls
+R,Daniel Gafford,F,/players/g/gaffoda01.html,Chicago Bulls
+3,Tomáš Satoranský,G,/players/s/satorto01.html,Chicago Bulls
+12,Thaddeus Young,F,/players/y/youngth01.html,Chicago Bulls
+2,Ryan Arcidiacono,G,/players/a/arcidry01.html,Chicago Bulls
+2,Luke Kornet,F,/players/k/kornelu01.html,Chicago Bulls
+2,Shaquille Harrison,G,/players/h/harrish01.html,Chicago Bulls
+7,John Henson,C-F,/players/h/hensojo01.html,Cleveland Cavaliers
+7,Brandon Knight,G,/players/k/knighbr03.html,Cleveland Cavaliers
+8,Tristan Thompson,F-C,/players/t/thomptr01.html,Cleveland Cavaliers
+5,Jordan Clarkson,G,/players/c/clarkjo01.html,Cleveland Cavaliers
+6,Matthew Dellavedova,G,/players/d/dellama01.html,Cleveland Cavaliers
+2,Ante Žižić,F-C,/players/z/zizican01.html,Cleveland Cavaliers
+2,Cedi Osman,F,/players/o/osmande01.html,Cleveland Cavaliers
+1,Collin Sexton,G,/players/s/sextoco01.html,Cleveland Cavaliers
+11,Kevin Love,F,/players/l/loveke01.html,Cleveland Cavaliers
+4,Larry Nance Jr.,F-C,/players/n/nancela02.html,Cleveland Cavaliers
+R,Darius Garland,G,/players/g/garlada01.html,Cleveland Cavaliers
+R,Dylan Windler,G-F,/players/w/windldy01.html,Cleveland Cavaliers
+R,Kevin Porter Jr.,G,/players/p/porteke02.html,Cleveland Cavaliers
+5,Dwight Powell,F-C,/players/p/poweldw01.html,Dallas Mavericks
+11,Courtney Lee,G,/players/l/leeco01.html,Dallas Mavericks
+2,Justin Jackson,G-F,/players/j/jacksju01.html,Dallas Mavericks
+6,Tim Hardaway Jr.,G,/players/h/hardati02.html,Dallas Mavericks
+1,Luka Dončić,G-F,/players/d/doncilu01.html,Dallas Mavericks
+1,Ryan Broekhoff,F,/players/b/broekry01.html,Dallas Mavericks
+1,Jalen Brunson,G,/players/b/brunsja01.html,Dallas Mavericks
+1,Kostas Antetokounmpo,F,/players/a/antetko01.html,Dallas Mavericks
+1,Daryl Macon,G,/players/m/maconda01.html,Dallas Mavericks
+4,Delon Wright,G,/players/w/wrighde01.html,Dallas Mavericks
+5,Seth Curry,G,/players/c/curryse01.html,Dallas Mavericks
+2,Maxi Kleber,F,/players/k/klebima01.html,Dallas Mavericks
+3,Dorian Finney-Smith,F,/players/f/finnedo01.html,Dallas Mavericks
+3,Kristaps Porziņģis,F-C,/players/p/porzikr01.html,Dallas Mavericks
+3,Malik Beasley,G,/players/b/beaslma01.html,Denver Nuggets
+3,Jamal Murray,G,/players/m/murraja01.html,Denver Nuggets
+3,Juan Hernangómez,F,/players/h/hernaju01.html,Denver Nuggets
+13,Paul Millsap,F,/players/m/millspa01.html,Denver Nuggets
+6,Mason Plumlee,C-F,/players/p/plumlma01.html,Denver Nuggets
+5,Gary Harris,G,/players/h/harriga01.html,Denver Nuggets
+R,Michael Porter Jr.,F,/players/p/portemi01.html,Denver Nuggets
+5,Jerami Grant,F,/players/g/grantje01.html,Denver Nuggets
+2,Torrey Craig,G-F,/players/c/craigto01.html,Denver Nuggets
+4,Nikola Jokić,C-F,/players/j/jokicni01.html,Denver Nuggets
+7,Will Barton,G,/players/b/bartowi01.html,Denver Nuggets
+1,Jarred Vanderbilt,F,/players/v/vandeja01.html,Denver Nuggets
+1,Thomas Welsh,C,/players/w/welshth01.html,Denver Nuggets
+2,Monte Morris,G,/players/m/morrimo01.html,Denver Nuggets
+8,Reggie Jackson,G,/players/j/jacksre01.html,Detroit Pistons
+7,Andre Drummond,C,/players/d/drumman01.html,Detroit Pistons
+3,Thon Maker,F-C,/players/m/makerth01.html,Detroit Pistons
+2,Luke Kennard,G,/players/k/kennalu01.html,Detroit Pistons
+5,Langston Galloway,G,/players/g/gallola01.html,Detroit Pistons
+9,Blake Griffin,F,/players/g/griffbl01.html,Detroit Pistons
+6,Tony Snell,G-F,/players/s/snellto01.html,Detroit Pistons
+1,Bruce Brown,G,/players/b/brownbr01.html,Detroit Pistons
+1,Sviatoslav Mykhailiuk,G-F,/players/m/mykhasv01.html,Detroit Pistons
+1,Khyri Thomas,G,/players/t/thomakh01.html,Detroit Pistons
+R,Sekou Doumbouya,F,/players/d/doumbse01.html,Detroit Pistons
+R,Jordan Bone,G,/players/b/bonejo01.html,Detroit Pistons
+10,Derrick Rose,G,/players/r/rosede01.html,Detroit Pistons
+8,Markieff Morris,F,/players/m/morrima02.html,Detroit Pistons
+5,Tim Frazier,G,/players/f/fraziti01.html,Detroit Pistons
+3,Christian Wood,F,/players/w/woodch01.html,Detroit Pistons
+7,Draymond Green,F,/players/g/greendr01.html,Golden State Warriors
+10,Stephen Curry,G,/players/c/curryst01.html,Golden State Warriors
+1,Jacob Evans,G-F,/players/e/evansja02.html,Golden State Warriors
+2,Alfonzo McKinnie,F,/players/m/mckinal01.html,Golden State Warriors
+R,Jordan Poole,G,/players/p/poolejo01.html,Golden State Warriors
+R,Alen Smailagić,F,/players/s/smailal01.html,Golden State Warriors
+R,Eric Paschall,F,/players/p/pascher01.html,Golden State Warriors
+4,D'Angelo Russell,G,/players/r/russeda01.html,Golden State Warriors
+4,Willie Cauley-Stein,F-C,/players/c/caulewi01.html,Golden State Warriors
+5,Glenn Robinson III,G-F,/players/r/robingl02.html,Golden State Warriors
+8,Klay Thompson,G-F,/players/t/thompkl01.html,Golden State Warriors
+4,Kevon Looney,F-C,/players/l/looneke01.html,Golden State Warriors
+8,Alec Burks,G,/players/b/burksal01.html,Golden State Warriors
+10,James Harden,G,/players/h/hardeja01.html,Houston Rockets
+11,Eric Gordon,G,/players/g/gordoer01.html,Houston Rockets
+8,P.J. Tucker,F,/players/t/tuckepj01.html,Houston Rockets
+11,Russell Westbrook,G,/players/w/westbru01.html,Houston Rockets
+1,Isaiah Hartenstein,F,/players/h/harteis01.html,Houston Rockets
+5,Clint Capela,C,/players/c/capelca01.html,Houston Rockets
+1,Gary Clark,F,/players/c/clarkga01.html,Houston Rockets
+3,Deyonta Davis,C-F,/players/d/davisde01.html,Houston Rockets
+1,Chris Chiozza,G,/players/c/chiozch01.html,Houston Rockets
+R,Michael Frazier,G,/players/f/frazimi01.html,Houston Rockets
+3,Danuel House,G,/players/h/houseda01.html,Houston Rockets
+7,Austin Rivers,G,/players/r/riverau01.html,Houston Rockets
+18,Tyson Chandler,C,/players/c/chandty01.html,Houston Rockets
+6,Victor Oladipo,G,/players/o/oladivi01.html,Indiana Pacers
+3,Domantas Sabonis,F-C,/players/s/sabondo01.html,Indiana Pacers
+2,T.J. Leaf,F,/players/l/leaftj01.html,Indiana Pacers
+5,T.J. Warren,F,/players/w/warretj01.html,Indiana Pacers
+1,Aaron Holiday,G,/players/h/holidaa01.html,Indiana Pacers
+5,Doug McDermott,F,/players/m/mcderdo01.html,Indiana Pacers
+1,Alize Johnson,F,/players/j/johnsal02.html,Indiana Pacers
+4,Myles Turner,C-F,/players/t/turnemy01.html,Indiana Pacers
+3,C.J. Wilcox,G,/players/w/wilcocj01.html,Indiana Pacers
+3,Malcolm Brogdon,G,/players/b/brogdma01.html,Indiana Pacers
+R,Goga Bitadze,C,/players/b/bitadgo01.html,Indiana Pacers
+7,Jeremy Lamb,G-F,/players/l/lambje01.html,Indiana Pacers
+7,Maurice Harkless,F-G,/players/h/harklma01.html,Los Angeles Clippers
+14,Lou Williams,G,/players/w/willilo02.html,Los Angeles Clippers
+1,Landry Shamet,G,/players/s/shamela01.html,Los Angeles Clippers
+1,Jerome Robinson,G,/players/r/robinje01.html,Los Angeles Clippers
+9,Paul George,F,/players/g/georgpa01.html,Los Angeles Clippers
+4,Montrezl Harrell,F-C,/players/h/harremo01.html,Los Angeles Clippers
+R,Mfiondu Kabengele,F,/players/k/kabenmf01.html,Los Angeles Clippers
+R,Terance Mann,G-F,/players/m/mannte01.html,Los Angeles Clippers
+8,Kawhi Leonard,F,/players/l/leonaka01.html,Los Angeles Clippers
+3,Ivica Zubac,C,/players/z/zubaciv01.html,Los Angeles Clippers
+7,Patrick Beverley,G,/players/b/beverpa01.html,Los Angeles Clippers
+5,JaMychal Green,F,/players/g/greenja01.html,Los Angeles Clippers
+7,Anthony Davis,F-C,/players/d/davisan02.html,Los Angeles Lakers
+2,Kyle Kuzma,F,/players/k/kuzmaky01.html,Los Angeles Lakers
+16,LeBron James,F-G,/players/j/jamesle01.html,Los Angeles Lakers
+R,Talen Horton-Tucker,G-F,/players/h/hortota01.html,Los Angeles Lakers
+10,Danny Green,G-F,/players/g/greenda02.html,Los Angeles Lakers
+9,DeMarcus Cousins,C-F,/players/c/couside01.html,Los Angeles Lakers
+6,Kentavious Caldwell-Pope,G,/players/c/caldwke01.html,Los Angeles Lakers
+11,JaVale McGee,C,/players/m/mcgeeja01.html,Los Angeles Lakers
+3,Quinn Cook,G,/players/c/cookqu01.html,Los Angeles Lakers
+12,Jared Dudley,F-G,/players/d/dudleja01.html,Los Angeles Lakers
+6,Troy Daniels,G,/players/d/danietr01.html,Los Angeles Lakers
+2,Alex Caruso,G,/players/c/carusal01.html,Los Angeles Lakers
+13,Rajon Rondo,G,/players/r/rondora01.html,Los Angeles Lakers
+9,Avery Bradley,G,/players/b/bradlav01.html,Los Angeles Lakers
+7,Jae Crowder,F,/players/c/crowdja01.html,Memphis Grizzlies
+6,Solomon Hill,F,/players/h/hillso01.html,Memphis Grizzlies
+7,Miles Plumlee,C-F,/players/p/plumlmi01.html,Memphis Grizzlies
+2,Josh Jackson,F-G,/players/j/jacksjo02.html,Memphis Grizzlies
+15,Andre Iguodala,G-F,/players/i/iguodan01.html,Memphis Grizzlies
+2,Dillon Brooks,F-G,/players/b/brookdi01.html,Memphis Grizzlies
+2,Ivan Rabb,F,/players/r/rabbiv01.html,Memphis Grizzlies
+1,Jaren Jackson Jr.,F,/players/j/jacksja02.html,Memphis Grizzlies
+1,Grayson Allen,G,/players/a/allengr01.html,Memphis Grizzlies
+5,Kyle Anderson,F-G,/players/a/anderky01.html,Memphis Grizzlies
+15,Dwight Howard,C,/players/h/howardw01.html,Memphis Grizzlies
+1,Yuta Watanabe,F,/players/w/watanyu01.html,Memphis Grizzlies
+1,De'Anthony Melton,G,/players/m/meltode01.html,Memphis Grizzlies
+5,Bruno Caboclo,F,/players/c/cabocbr01.html,Memphis Grizzlies
+R,Ja Morant,G,/players/m/moranja01.html,Memphis Grizzlies
+R,Brandon Clarke,F,/players/c/clarkbr01.html,Memphis Grizzlies
+4,Tyus Jones,G,/players/j/jonesty01.html,Memphis Grizzlies
+7,Jonas Valančiūnas,C,/players/v/valanjo01.html,Memphis Grizzlies
+11,Goran Dragić,G,/players/d/dragigo01.html,Miami Heat
+7,Meyers Leonard,C-F,/players/l/leoname01.html,Miami Heat
+2,Bam Adebayo,C-F,/players/a/adebaba01.html,Miami Heat
+10,James Johnson,F,/players/j/johnsja01.html,Miami Heat
+7,Dion Waiters,G,/players/w/waitedi01.html,Miami Heat
+6,Kelly Olynyk,C-F,/players/o/olynyke01.html,Miami Heat
+3,Derrick Jones Jr.,F,/players/j/jonesde02.html,Miami Heat
+4,Justise Winslow,F,/players/w/winslju01.html,Miami Heat
+1,Yante Maten,F,/players/m/matenya01.html,Miami Heat
+1,Duncan Robinson,G,/players/r/robindu01.html,Miami Heat
+R,Kendrick Nunn,G,/players/n/nunnke01.html,Miami Heat
+R,KZ Okpala,F,/players/o/okpalkz01.html,Miami Heat
+R,Tyler Herro,G,/players/h/herroty01.html,Miami Heat
+8,Jimmy Butler,F-G,/players/b/butleji01.html,Miami Heat
+6,Giannis Antetokounmpo,F-G,/players/a/antetgi01.html,Milwaukee Bucks
+2,D.J. Wilson,F,/players/w/wilsodj01.html,Milwaukee Bucks
+2,Sterling Brown,G,/players/b/brownst02.html,Milwaukee Bucks
+1,Donte DiVincenzo,G,/players/d/divindo01.html,Milwaukee Bucks
+11,Ersan İlyasova,F,/players/i/ilyaser01.html,Milwaukee Bucks
+4,Pat Connaughton,G,/players/c/connapa01.html,Milwaukee Bucks
+9,Eric Bledsoe,G,/players/b/bledser01.html,Milwaukee Bucks
+1,Bonzie Colson,F,/players/c/colsobo01.html,Milwaukee Bucks
+11,Brook Lopez,C,/players/l/lopezbr01.html,Milwaukee Bucks
+11,George Hill,G,/players/h/hillge01.html,Milwaukee Bucks
+7,Khris Middleton,F-G,/players/m/middlkh01.html,Milwaukee Bucks
+11,Robin Lopez,C,/players/l/lopezro01.html,Milwaukee Bucks
+10,Wesley Matthews,G,/players/m/matthwe02.html,Milwaukee Bucks
+1,Thanasis Antetokounmpo,F,/players/a/antetth01.html,Milwaukee Bucks
+6,Gorgui Dieng,C,/players/d/dienggo01.html,Minnesota Timberwolves
+10,Jeff Teague,G,/players/t/teaguje01.html,Minnesota Timberwolves
+5,Andrew Wiggins,F-G,/players/w/wiggian01.html,Minnesota Timberwolves
+6,Robert Covington,F,/players/c/covinro01.html,Minnesota Timberwolves
+1,Josh Okogie,G,/players/o/okogijo01.html,Minnesota Timberwolves
+1,Keita Bates-Diop,F,/players/b/bateske01.html,Minnesota Timberwolves
+5,Shabazz Napier,G,/players/n/napiesh01.html,Minnesota Timberwolves
+3,Treveon Graham,G,/players/g/grahatr01.html,Minnesota Timberwolves
+4,Karl-Anthony Towns,C-F,/players/t/townska01.html,Minnesota Timberwolves
+R,Jarrett Culver,G,/players/c/culveja01.html,Minnesota Timberwolves
+3,Jake Layman,F,/players/l/laymaja01.html,Minnesota Timberwolves
+2,Tyrone Wallace,G,/players/w/wallaty01.html,Minnesota Timberwolves
+5,Noah Vonleh,F,/players/v/vonleno01.html,Minnesota Timberwolves
+2,Frank Ntilikina,G,/players/n/ntilila01.html,New York Knicks
+2,Dennis Smith Jr.,G,/players/s/smithde03.html,New York Knicks
+2,Damyean Dotson,G,/players/d/dotsoda01.html,New York Knicks
+1,Kevin Knox,F,/players/k/knoxke01.html,New York Knicks
+1,Mitchell Robinson,C,/players/r/robinmi01.html,New York Knicks
+1,Allonzo Trier,G,/players/t/trieral01.html,New York Knicks
+2,Kadeem Allen,G,/players/a/allenka01.html,New York Knicks
+R,RJ Barrett,G-F,/players/b/barrerj01.html,New York Knicks
+R,Ignas Brazdeikis,F,/players/b/brazdig01.html,New York Knicks
+5,Julius Randle,F-C,/players/r/randlju01.html,New York Knicks
+10,Taj Gibson,F,/players/g/gibsota01.html,New York Knicks
+4,Bobby Portis,F,/players/p/portibo01.html,New York Knicks
+10,Wayne Ellington,G,/players/e/ellinwa01.html,New York Knicks
+5,Elfrid Payton,G,/players/p/paytoel01.html,New York Knicks
+8,Marcus Morris,F,/players/m/morrima03.html,New York Knicks
+6,Reggie Bullock,G-F,/players/b/bullore01.html,New York Knicks
+6,Dennis Schröder,G,/players/s/schrode01.html,Oklahoma City Thunder
+6,Steven Adams,C,/players/a/adamsst01.html,Oklahoma City Thunder
+10,Danilo Gallinari,F,/players/g/gallida01.html,Oklahoma City Thunder
+9,Patrick Patterson,F,/players/p/pattepa01.html,Oklahoma City Thunder
+2,Abdel Nader,F,/players/n/naderab01.html,Oklahoma City Thunder
+5,Andre Roberson,G-F,/players/r/roberan03.html,Oklahoma City Thunder
+2,Terrance Ferguson,G-F,/players/f/fergute01.html,Oklahoma City Thunder
+1,Shai Gilgeous-Alexander,G,/players/g/gilgesh01.html,Oklahoma City Thunder
+14,Chris Paul,G,/players/p/paulch01.html,Oklahoma City Thunder
+1,Hamidou Diallo,G,/players/d/diallha01.html,Oklahoma City Thunder
+1,Deonte Burton,G,/players/b/burtode02.html,Oklahoma City Thunder
+1,Donte Grantham,F,/players/g/grantdo01.html,Oklahoma City Thunder
+R,Darius Bazley,F,/players/b/bazleda01.html,Oklahoma City Thunder
+5,Nerlens Noel,C-F,/players/n/noelne01.html,Oklahoma City Thunder
+6,Mike Muscala,F-C,/players/m/muscami01.html,Oklahoma City Thunder
+11,D.J. Augustin,G,/players/a/augusdj01.html,Orlando Magic
+7,Evan Fournier,G-F,/players/f/fournev01.html,Orlando Magic
+2,Jonathan Isaac,F,/players/i/isaacjo01.html,Orlando Magic
+2,Markelle Fultz,G,/players/f/fultzma01.html,Orlando Magic
+2,Wesley Iwundu,F,/players/i/iwundwe01.html,Orlando Magic
+1,Mohamed Bamba,C,/players/b/bambamo01.html,Orlando Magic
+5,Aaron Gordon,F,/players/g/gordoaa01.html,Orlando Magic
+1,Melvin Frazier,G,/players/f/frazime01.html,Orlando Magic
+9,Al-Farouq Aminu,F,/players/a/aminual01.html,Orlando Magic
+8,Nikola Vučević,C,/players/v/vucevni01.html,Orlando Magic
+7,Terrence Ross,F-G,/players/r/rosste01.html,Orlando Magic
+6,Michael Carter-Williams,G,/players/c/cartemi01.html,Orlando Magic
+2,Khem Birch,C-F,/players/b/birchkh01.html,Orlando Magic
+2,Ben Simmons,G-F,/players/s/simmobe01.html,Philadelphia 76ers
+4,Josh Richardson,G,/players/r/richajo01.html,Philadelphia 76ers
+3,Joel Embiid,C,/players/e/embiijo01.html,Philadelphia 76ers
+1,Zhaire Smith,G,/players/s/smithzh01.html,Philadelphia 76ers
+1,Jonah Bolden,F,/players/b/boldejo01.html,Philadelphia 76ers
+R,Norvel Pelle,F-C,/players/p/pelleno01.html,Philadelphia 76ers
+R,Matisse Thybulle,G,/players/t/thybuma01.html,Philadelphia 76ers
+R,Marial Shayok,G,/players/s/shayoma01.html,Philadelphia 76ers
+1,Shake Milton,G,/players/m/miltosh01.html,Philadelphia 76ers
+12,Al Horford,C-F,/players/h/horfoal01.html,Philadelphia 76ers
+8,Tobias Harris,F,/players/h/harrito02.html,Philadelphia 76ers
+7,Mike Scott,F,/players/s/scottmi01.html,Philadelphia 76ers
+7,Kyle O'Quinn,F-C,/players/o/oquinky01.html,Philadelphia 76ers
+5,James Ennis,F,/players/e/ennisja01.html,Philadelphia 76ers
+4,Raul Neto,G,/players/n/netora01.html,Philadelphia 76ers
+5,Tyler Johnson,G,/players/j/johnsty01.html,Phoenix Suns
+3,Dario Šarić,F,/players/s/saricda01.html,Phoenix Suns
+1,Deandre Ayton,C,/players/a/aytonde01.html,Phoenix Suns
+1,Mikal Bridges,G,/players/b/bridgmi01.html,Phoenix Suns
+7,Aron Baynes,C,/players/b/baynear01.html,Phoenix Suns
+1,Élie Okobo,G,/players/o/okoboel01.html,Phoenix Suns
+4,Devin Booker,G,/players/b/bookede01.html,Phoenix Suns
+1,Jevon Carter,G,/players/c/carteje01.html,Phoenix Suns
+R,Cameron Johnson,F,/players/j/johnsca02.html,Phoenix Suns
+R,Ty Jerome,G,/players/j/jeromty01.html,Phoenix Suns
+8,Ricky Rubio,G,/players/r/rubiori01.html,Phoenix Suns
+4,Kelly Oubre Jr.,F,/players/o/oubreke01.html,Phoenix Suns
+4,Frank Kaminsky,F-C,/players/k/kaminfr01.html,Phoenix Suns
+7,Damian Lillard,G,/players/l/lillada01.html,Portland Trail Blazers
+6,CJ McCollum,G,/players/m/mccolcj01.html,Portland Trail Blazers
+7,Kent Bazemore,G-F,/players/b/bazemke01.html,Portland Trail Blazers
+7,Hassan Whiteside,C,/players/w/whiteha01.html,Portland Trail Blazers
+3,Skal Labissière,F,/players/l/labissk01.html,Portland Trail Blazers
+2,Zach Collins,C-F,/players/c/colliza01.html,Portland Trail Blazers
+1,Anfernee Simons,G,/players/s/simonan01.html,Portland Trail Blazers
+5,Jusuf Nurkić,C,/players/n/nurkiju01.html,Portland Trail Blazers
+1,Gary Trent Jr.,G,/players/t/trentga02.html,Portland Trail Blazers
+R,Nassir Little,F,/players/l/littlna01.html,Portland Trail Blazers
+11,Anthony Tolliver,F-C,/players/t/tollian01.html,Portland Trail Blazers
+4,Mario Hezonja,F-G,/players/h/hezonma01.html,Portland Trail Blazers
+5,Rodney Hood,G-F,/players/h/hoodro01.html,Portland Trail Blazers
+5,Rodney Hood,G-F,/players/h/hoodro01.html,Portland Trail Blazers
+3,Buddy Hield,G,/players/h/hieldbu01.html,Sacramento Kings
+2,Caleb Swanigan,F,/players/s/swanica01.html,Sacramento Kings
+1,Harry Giles,F-C,/players/g/gilesha01.html,Sacramento Kings
+2,De'Aaron Fox,G,/players/f/foxde01.html,Sacramento Kings
+2,Bogdan Bogdanović,G,/players/b/bogdabo01.html,Sacramento Kings
+1,Marvin Bagley III,F,/players/b/baglema01.html,Sacramento Kings
+4,Nemanja Bjelica,F,/players/b/bjeline01.html,Sacramento Kings
+3,Yogi Ferrell,G,/players/f/ferreyo01.html,Sacramento Kings
+1,B.J. Johnson,G,/players/j/johnsbj01.html,Sacramento Kings
+R,Wenyen Gabriel,F,/players/g/gabriwe01.html,Sacramento Kings
+R,Kyle Guy,G,/players/g/guyky01.html,Sacramento Kings
+R,Justin James,G,/players/j/jamesju01.html,Sacramento Kings
+8,Cory Joseph,G,/players/j/josepco01.html,Sacramento Kings
+15,Trevor Ariza,F,/players/a/arizatr01.html,Sacramento Kings
+7,Harrison Barnes,F,/players/b/barneha02.html,Sacramento Kings
+6,Dewayne Dedmon,C,/players/d/dedmode01.html,Sacramento Kings
+4,Richaun Holmes,F-C,/players/h/holmeri01.html,Sacramento Kings
+2,Tyler Lydon,F,/players/l/lydonty01.html,Sacramento Kings
+2,Dejounte Murray,G,/players/m/murrade01.html,San Antonio Spurs
+10,DeMar DeRozan,G-F,/players/d/derozde01.html,San Antonio Spurs
+3,Jakob Pöltl,C,/players/p/poeltja01.html,San Antonio Spurs
+2,Derrick White,G,/players/w/whitede01.html,San Antonio Spurs
+10,Patty Mills,G,/players/m/millspa02.html,San Antonio Spurs
+13,LaMarcus Aldridge,F-C,/players/a/aldrila01.html,San Antonio Spurs
+1,Lonnie Walker,G,/players/w/walkelo01.html,San Antonio Spurs
+12,Marco Belinelli,G-F,/players/b/belinma01.html,San Antonio Spurs
+3,Bryn Forbes,G,/players/f/forbebr01.html,San Antonio Spurs
+1,Chimezie Metu,F,/players/m/metuch01.html,San Antonio Spurs
+1,Drew Eubanks,F,/players/e/eubandr01.html,San Antonio Spurs
+R,Luka Šamanić,F,/players/s/samanlu01.html,San Antonio Spurs
+R,Keldon Johnson,G,/players/j/johnske04.html,San Antonio Spurs
+R,Quinndary Weatherspoon,G,/players/w/weathqu01.html,San Antonio Spurs
+10,DeMarre Carroll,F,/players/c/carrode01.html,San Antonio Spurs
+13,Rudy Gay,F,/players/g/gayru01.html,San Antonio Spurs
+4,Trey Lyles,F,/players/l/lylestr01.html,San Antonio Spurs
+11,Marc Gasol,C,/players/g/gasolma01.html,Toronto Raptors
+3,Pascal Siakam,F,/players/s/siakapa01.html,Toronto Raptors
+2,OG Anunoby,F,/players/a/anunoog01.html,Toronto Raptors
+13,Kyle Lowry,G,/players/l/lowryky01.html,Toronto Raptors
+10,Serge Ibaka,F-C,/players/i/ibakase01.html,Toronto Raptors
+4,Norman Powell,G,/players/p/powelno01.html,Toronto Raptors
+3,Fred VanVleet,G,/players/v/vanvlfr01.html,Toronto Raptors
+2,Malcolm Miller,F,/players/m/millema01.html,Toronto Raptors
+2,Chris Boucher,F,/players/b/bouchch01.html,Toronto Raptors
+1,Jordan Loyd,G,/players/l/loydjo01.html,Toronto Raptors
+R,Dewan Hernandez,F,/players/h/hernade01.html,Toronto Raptors
+3,Patrick McCaw,G,/players/m/mccawpa01.html,Toronto Raptors
+4,Stanley Johnson,F,/players/j/johnsst04.html,Toronto Raptors
+4,Rondae Hollis-Jefferson,F,/players/h/holliro01.html,Toronto Raptors
+6,Rudy Gobert,C,/players/g/goberru01.html,Utah Jazz
+12,Mike Conley,G,/players/c/conlemi01.html,Utah Jazz
+2,Donovan Mitchell,G,/players/m/mitchdo01.html,Utah Jazz
+2,Tony Bradley,F-C,/players/b/bradlto01.html,Utah Jazz
+2,Royce O'Neale,F,/players/o/onealro01.html,Utah Jazz
+5,Joe Ingles,F-G,/players/i/inglejo01.html,Utah Jazz
+4,Dante Exum,G,/players/e/exumda01.html,Utah Jazz
+3,Georges Niang,F,/players/n/niangge01.html,Utah Jazz
+R,Miye Oni,G,/players/o/onimi01.html,Utah Jazz
+5,Bojan Bogdanović,G-F,/players/b/bogdabo02.html,Utah Jazz
+R,Jarrell Brantley,F,/players/b/brantja01.html,Utah Jazz
+R,Justin Wright-Foreman,G,/players/w/wrighju02.html,Utah Jazz
+11,Ian Mahinmi,C,/players/m/mahinia01.html,Washington Wizards
+7,Bradley Beal,G,/players/b/bealbr01.html,Washington Wizards
+14,C.J. Miles,G-F,/players/m/milescj01.html,Washington Wizards
+9,John Wall,G,/players/w/walljo01.html,Washington Wizards
+1,Moritz Wagner,F-C,/players/w/wagnemo01.html,Washington Wizards
+1,Troy Brown Jr.,G-F,/players/b/browntr01.html,Washington Wizards
+1,Isaac Bonga,G,/players/b/bongais01.html,Washington Wizards
+3,Dāvis Bertāns,F,/players/b/bertada01.html,Washington Wizards
+1,Jemerrio Jones,F,/players/j/jonesje01.html,Washington Wizards
+3,Jordan McRae,G,/players/m/mcraejo01.html,Washington Wizards
+R,Tarik Phillip,G,/players/p/phillta01.html,Washington Wizards
+R,Rui Hachimura,F,/players/h/hachiru01.html,Washington Wizards
+R,Admiral Schofield,G-F,/players/s/schofad01.html,Washington Wizards
+2,Thomas Bryant,C,/players/b/bryanth01.html,Washington Wizards
+9,Ish Smith,G,/players/s/smithis01.html,Washington Wizards
+8,Isaiah Thomas,G,/players/t/thomais02.html,Washington Wizards
