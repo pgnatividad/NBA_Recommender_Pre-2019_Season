@@ -1,5 +1,5 @@
 import pandas as pd
-master_df = pd.read_csv("master_recommender.csv")
+master_df = pd.read_csv("data/master_recommender.csv")
 import time
 from PIL import Image #for easter egg
 
