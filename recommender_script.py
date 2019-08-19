@@ -66,7 +66,7 @@ def search(): #the function that takes a player and returns their 10 more simila
     elif query == 'jingles': #Easter Egg
         print(header)
         print(copy_recommender['Joe Ingles'].sort_values()[0:11])
-        Image.open("jingled.png").show()
+        Image.open("images/jingled.png").show()
 
 
 
