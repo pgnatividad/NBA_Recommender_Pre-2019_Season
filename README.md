@@ -14,7 +14,7 @@ workspace is the workspace where the the recommender code took place
 
 </p>
 
-#### <u> Libraries used</u>
+#### <u>Libraries used</u>
 <ul>
 <li>Pandas</li>
 <li>PIL</li>
@@ -25,7 +25,7 @@ workspace is the workspace where the the recommender code took place
 <li>Sklearn's Standard Scaler</li>
 </ul>
 
-#### <u>Acknoledgements</u>
+#### <u>Acknowledgments</u>
 Thanks to General Assembly DSI-8 for teaching me these concepts
 <br>
 Thanks to BasketballReference for allowing me to scrape their data
