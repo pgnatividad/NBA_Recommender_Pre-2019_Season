@@ -41,7 +41,9 @@ def main_menu():
     elif entry == '6':
         print('''
         This Recommender only works for players who are on teams
-        for the 2019-2020 season prior mid-July 2019
+        for the 2019-2020 season prior mid-July 2019.
+        There are no retired players available on this system.
+        There are no rookies available on this system.
         ''')
         main_menu()
     else:
